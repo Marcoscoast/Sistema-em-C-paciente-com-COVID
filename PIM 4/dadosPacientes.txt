@@ -1,0 +1,40 @@
+
+ ****Dados do Paciente****
+
+Nome: luis
+ 
+CPF: 4879876572913776589455 
+Telefone:13776589455 
+Endereço: 
+Rua:joao
+ 
+Numero: 44 
+Bairro: tupi
+ 
+Cidade: santos
+ 
+Estado: sao paulo
+ 
+CEP: 1786398  
+Data de Nascimento 4 / 5 / 2002 
+ Data do diagnóstico: 4 / 7 / 2022 
+
+ ****Dados do Paciente****
+
+Nome: marcos
+ 
+CPF: 9864786570313887492844 
+Telefone:13887492844 
+Endereço: 
+Rua:joao
+ 
+Numero: 441 
+Bairro: ocian
+ 
+Cidade: santos
+ 
+Estado: sao paulo
+ 
+CEP: 11764087  
+Data de Nascimento 4 / 5 / 200 
+ Data do diagnóstico: 3 / 2 / 2022 

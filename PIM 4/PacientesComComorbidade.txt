@@ -1,0 +1,12 @@
+
+****Dados do Paciente**** 
+Nome do Paciente: luis
+ Idade do Paciente: 2022 CEP: 5
+
+****Dados do Paciente**** 
+Nome do Paciente: luis
+ Idade do Paciente: 20 CEP: 1786398
+
+****Dados do Paciente**** 
+Nome do Paciente: marcos
+ Idade do Paciente: 1822 CEP: 11764087
